@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GridGifItem /> Debe de hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="container-gif animate__animated animate__fadeInRight"
+  >
+    <img
+      alt="Luffy"
+      src="https://one-punch.com/saitama.jpg"
+    />
+    <p>
+      Luffy
+    </p>
+  </div>
+</div>
+`;
